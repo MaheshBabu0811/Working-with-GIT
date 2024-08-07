@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="-Tr7Zh3PKUqRnCe_wsYg3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="TT3NfTy9cEmBR2WxdS3Tnw" Reference="OgDz6o6ZbUabHDTb9RbOmQ/D2TZJrT9FU6Qw3O8EiYPTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rpachallenge.com/" CVScreenId="d2d1c169-81f5-404a-b8a5-ea9e2c1359b7" CvElementArea="624, 966, 179, 53" CvTextArea="671, 986, 85, 21" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="629, 969, 173, 54" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='btn uiColorButton' aaname='Submit' check:text='Submit' /&gt;" Guid="c1c20b63-30fe-4194-8ec9-701181690ef9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="8720331ec2e80243435ce1c9857272c8.png" xmlns="">0Ity8yQqNY0eB1HayVXR0Fw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="8720331ec2e80243435ce1c9857272c8.png" xmlns="">0xFue-xRRuEGrxVwahDnzQA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
